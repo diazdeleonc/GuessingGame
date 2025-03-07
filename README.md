@@ -1,4 +1,4 @@
-## CIS3330-CODE2-Guessing-Game-Number-Alpha
+## CODE2-Guessing-Game-Number-Alpha
 
 ### Instructions
 
